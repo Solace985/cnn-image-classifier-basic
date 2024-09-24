@@ -1,5 +1,5 @@
-#This is a reference Image classifier code taken from generative AI(ChatGPT) used for better understanding.
-#I have in no way copied this code for my project, this code is only meant for better understanding of the concept
+#This is a reference Image classifier code taken from generative AI(ChatGPT) used for learning purposes.
+#I have in no way copied this code for my project, this code is only meant for better understanding of the concepts of deep learning.
 
 # Help has also been taken from the resources provided in Week 2 of Season of AI.
 
